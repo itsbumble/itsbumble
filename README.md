@@ -1,6 +1,6 @@
 # **🐝 Hello, I'm bumble.**
 
-I'm a polish girl who codes some things occasionally, or something.
+I'm a person. That is all you need to know.
 
 Location - United States \
 Pronouns - she/they \
