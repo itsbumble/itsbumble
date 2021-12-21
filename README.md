@@ -1,6 +1,6 @@
 # **🐝 Hello, I'm bumble.**
 
-I'm a person. That is all you need to know.
+I do things, I guess. Not really sure what else to say.
 
 Location - United States \
 Pronouns - she/they \
