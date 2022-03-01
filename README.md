@@ -3,7 +3,6 @@
 I do things, I guess. Not really sure what else to say.
 
 Location - United States \
-Pronouns - she/they \
 Programming Knowledge - Small knowledge of HTML/Svelte and CSS \
 Real Life Languages - English, Polish \
 Domains I own - [floppa.info](https://floppa.info), [sogga.info](https://sogga.info)
