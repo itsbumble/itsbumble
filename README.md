@@ -3,7 +3,7 @@
 I do things, I guess. Not really sure what else to say.
 
 Location - United States \
-Programming Knowledge - Small knowledge of HTML/Svelte and CSS \
+Programming Knowledge - Small knowledge of HTML/Svelte and CSS, and some Python. \
 Real Life Languages - English, Polish \
 Domains I own - [floppa.info](https://floppa.info), [sogga.info](https://sogga.info)
 
