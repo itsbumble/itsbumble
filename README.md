@@ -5,7 +5,7 @@ I do things, I guess. Not really sure what else to say.
 Location - United States \
 Programming Knowledge - Python, some HTML/CSS \
 Real Life Languages - English, Polish \
-Domains I own - [floppa.info](https://floppa.info), [sogga.info](https://sogga.info), [bumble.pink](https://bumble.pink)
+Domains I own - [floppa.info](https://floppa.info), [sogga.info](https://sogga.info), [bumble.pink](https://bumble.pink), [bumble.codes](https://bumble.codes)
 
 <a href="https://github.com/itsbumble?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbumble&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
